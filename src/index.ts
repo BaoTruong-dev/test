@@ -47,8 +47,3 @@ class Test {
 
 let test = new Test();
 console.log(test);
-console.log("haha");
-console.log("hihi");
-console.log("1");
-console.log("2");
-console.log("3");
